@@ -1,26 +1,18 @@
-# French translations for i18n.
+# Translations template for i18n.
 # Copyright (C) 2023 Raheem SK
 # This file is distributed under the same license as the i18n project.
 # Raheem SK <rsalifu@yahoo.com>, 2023.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: rsalifu@yahoo.com\n"
 "POT-Creation-Date: 2023-04-25 01:22+0000\n"
-"PO-Revision-Date: 2023-04-25 21:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Raheem SK <rsalifu@yahoo.com>\n"
-"Language: fr\n"
-"Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
-
-msgid "home_title"
-msgstr "Bienvenue chez Holberton"
-
-msgid "home_header"
-msgstr "Bonjour monde!"
-
+"Generated-By: Babel 2.10.1\n"
